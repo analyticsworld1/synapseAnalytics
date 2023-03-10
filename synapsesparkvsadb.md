@@ -2,7 +2,6 @@
 
 Hi All, Need some help. I created a large instance instance with 3 to 10 node max. loaded a 55 million row taxi data form blob into spark dataframe - in batch mode and then did a df.count() and then removed duplicates usign dropDuplicates and then do a count again. 
 I did that both in Azure synapse Spark and also Azure databricks.
-
 Azure synapse spark:
 Compute spec: Large 16vCPu/128Gb ram
 

@@ -3,7 +3,6 @@
 ![alt text](https://github.com/balakreshnan/synapseAnalytics/blob/master/images/synapseprocess.JPG "Synapse Analytics")
 
 ## Load data
-
 ```
 spark.conf.set(
   "fs.azure.account.key.waginput.blob.core.windows.net",

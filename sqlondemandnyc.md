@@ -7,13 +7,11 @@
 - Need to copy the data from open data set into local synapse default storage
 - Read Yellow taxi data
 - Create a notebook with pyspark as language
-
 ```
 blob_account_name = "azureopendatastorage"
 blob_container_name = "nyctlc"
 blob_relative_path = "yellow"
 blob_sas_token = r""
-
 # Allow Spark to read from Blob remotely
 wasbs_path = 'wasbs://%s@%s.blob.core.windows.net/%s' % (blob_container_name, blob_account_name, blob_relative_path)
 spark.conf.set('fs.azure.sas.%s.%s.blob.core.windows.net' % (blob_container_name, blob_account_name),blob_sas_token)

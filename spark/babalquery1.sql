@@ -1,7 +1,6 @@
 -- type your sql script here, we now have intellisense
 -- babal - testing.
 
-
 DROP  VIEW VW_WeatherInfo
 GO
 

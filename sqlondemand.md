@@ -3,9 +3,7 @@
 ## How to use Azure Synapse SQL on demand and do ETL
 
 ## Use Case
-
 Build a system to load covid 19 data which is available in kagal web site. 
-
 ## Steps
 
 - Create a Azure Syanpse workspace resource

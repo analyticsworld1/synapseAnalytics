@@ -5,7 +5,6 @@
 Data governance is a topic lately been discussed by every one. Given data is considered very important for decision making, data governance and security are very important topic. 
 
 Variations of data sizes causes challenges and build complexity on the data governance.
-
 ## Components of Data governance
 
 - Governance concil

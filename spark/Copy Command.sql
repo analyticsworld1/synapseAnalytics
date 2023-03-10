@@ -1,7 +1,6 @@
 --https://docs.microsoft.com/en-us/sql/t-sql/statements/copy-into-transact-sql?view=azure-sqldw-latest#examples
 DROP table Consumption_Info
 GO
-
 create table Consumption_Info
 (
     year char(4),

@@ -3,9 +3,7 @@
 ## Encrypt and decrypt sensitive columns in spark using scala AES
 
 Protecting the data applies to Data engineering and Data science workloads as well. 
-
 Give the specific countries requirements on protecting data, securing data is becoming more more and prominent.
-
 Imports needed
 
 ```

@@ -1,7 +1,6 @@
 # Self Service - Data Security Explained
 
 ## What is Data Security in Self Service
-
 Data security for self service Business intelligence is an area which has lots of attention these days. There is primarly 2 parts to it one is writing to self service storage and other is reading from it. Writes are usually controlled but reads are the most challenging. This is a topic i hear and talk about it every day.
 
 For Read there are consideration like

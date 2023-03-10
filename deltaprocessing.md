@@ -3,9 +3,7 @@
 Implement Delta Lake in Azure Synapse Analytics Spark.
 
 ![alt text](https://github.com/balakreshnan/synapseAnalytics/blob/master/images/synapseprocess.JPG "Synapse Analytics")
-
 ## Load data
-
 Time to configure the blob storage and load the data
 
 ```

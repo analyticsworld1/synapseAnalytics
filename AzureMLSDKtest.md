@@ -1,7 +1,6 @@
 # Azure Synapse Analytics - Automated Machine learning using Azure Machine learning service.
 
 Unified Analytics Tool to ingest, compute or process data, Store data, Advanced analytics or machine learning and Display all in one tool. End to end data analytics platform built to scale and ease of use. 
-
 ![alt text](https://github.com/balakreshnan/synapseAnalytics/blob/master/images/synapseprocess.JPG "Synapse Analytics")
 
 ## Syanpse Advanced Analytics

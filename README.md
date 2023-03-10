@@ -8,7 +8,6 @@ Azure SQL DW Pool is used for running SQL queries. Query tool uses Azure SQL DW 
 Spark cluster is used for Notebooks. Notebooks can run Pyspark, Scala or Spark SQL. Also C# is also available.
 
 ## Code Repository
-
 https://github.com/balakreshnan/gitsynapse
 
 ## SQl Scripts

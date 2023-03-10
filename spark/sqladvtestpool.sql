@@ -4,7 +4,6 @@ SELECT TOP 100 *
 FROM 
 OPENROWSET(BULK N'https://wagssynap.dfs.core.windows.net/output/mlsample1.csv', FORMAT = 'csv') as r
 
-
 CREATE DATABASE SCOPED CREDENTIAL ConsumptionBlob
 WITH IDENTITY = 'SHARED ACCESS SIGNATURE',
 SECRET = '?st=2019-12-12T21%3A08%3A37Z&se=2025-12-31T18%3A00%3A00Z&sp=racwdl&sv=2018-03-28&sr=c&sig=OOCQdGDehYTif32x7Eqo0ljsU%2BXmzMStUIcfztniO2w%3D';

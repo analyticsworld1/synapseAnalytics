@@ -1,5 +1,4 @@
 # Azure Spark ETL in Azure Synapse Analtyics (Workspace) with sample datasets and machine learning
-
 ## Use existing data sets to load and process data to learn ETL - Extract, Transform and Load
 
 ## Use Case

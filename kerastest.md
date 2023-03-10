@@ -1,7 +1,6 @@
 # Synapse Analytics Keras Hello world
 
 Run tensorflow 1.14 keras code in Azure synapse analytics. Sample code to test if tensorflow is working. 
-
 ![alt text](https://github.com/balakreshnan/synapseAnalytics/blob/master/images/synapseprocess.JPG "Synapse Analytics")
 
 ## Syanpse Advanced Analytics

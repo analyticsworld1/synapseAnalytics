@@ -3,7 +3,6 @@
 Run Recommendation supervised learning with Movie data set. 
 
 ![alt text](https://github.com/balakreshnan/synapseAnalytics/blob/master/images/synapseprocess.JPG "Synapse Analytics")
-
 ## Syanpse Advanced Analytics
 
 Synapse has the ability to run spark based code which leads to Data engineering or feature engineering and also Machine learning. This articles describes how to train a machine learning model using spark in synapse.
